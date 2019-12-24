@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/beans/Arc.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/beans/Employee.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/beans/Skill.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/beans/Task.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/init/ReadFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/ReadTest.java" charset="GBK" />
+  </component>
+</project>
